@@ -1,0 +1,4 @@
+---
+- name: "{{publicip}}"
+  roles:
+  - apache
